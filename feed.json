@@ -12,16 +12,15 @@
         {
             "id": "https://larssjogreen.github.io/duspelarroll/goda-nyheter.html",
             "url": "https://larssjogreen.github.io/duspelarroll/goda-nyheter.html",
-            "title": "GODA NYHETER!",
-            "summary": "DU SPELAR ROLL RÖSTA FÖR DEMOKRATI OCH MÄNSKLIGA RÄTTIGHETER",
-            "content_html": "<h2 class=\"align-center\"><strong>DU SPELAR ROLL</strong><br><br>RÖSTA FÖR</h2>\n<h2 class=\"align-center\">DEMOKRATI OCH</h2>\n<h2 class=\"align-center\">MÄNSKLIGA RÄTTIGHETER</h2>",
+            "title": "GODA NYHETER",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://larssjogreen.github.io/duspelarroll/media/posts/1/GODANYHETER.jpeg\" alt=\"Goda nyheter! Du spelar roll. Lägg din röst på ett parti som står för demokrati och mänskliga rättigheter\" width=\"905\" height=\"1280\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://larssjogreen.github.io/duspelarroll/media/posts/1/responsive/GODANYHETER-xs.jpeg 640w ,https://larssjogreen.github.io/duspelarroll/media/posts/1/responsive/GODANYHETER-sm.jpeg 768w ,https://larssjogreen.github.io/duspelarroll/media/posts/1/responsive/GODANYHETER-md.jpeg 1024w ,https://larssjogreen.github.io/duspelarroll/media/posts/1/responsive/GODANYHETER-lg.jpeg 1366w ,https://larssjogreen.github.io/duspelarroll/media/posts/1/responsive/GODANYHETER-xl.jpeg 1600w ,https://larssjogreen.github.io/duspelarroll/media/posts/1/responsive/GODANYHETER-2xl.jpeg 1920w\"></figure>",
             "author": {
                 "name": "Du Spelar Roll"
             },
             "tags": [
             ],
             "date_published": "2026-05-31T21:50:46+02:00",
-            "date_modified": "2026-05-31T21:50:46+02:00"
+            "date_modified": "2026-05-31T21:59:26+02:00"
         }
     ]
 }
