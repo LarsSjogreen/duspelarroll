@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "duspelarroll.nu",
+    "description": "",
+    "home_page_url": "https://larssjogreen.github.io/duspelarroll",
+    "feed_url": "https://larssjogreen.github.io/duspelarroll/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Du Spelar Roll"
+    },
+    "items": [
+        {
+            "id": "https://larssjogreen.github.io/duspelarroll/goda-nyheter.html",
+            "url": "https://larssjogreen.github.io/duspelarroll/goda-nyheter.html",
+            "title": "GODA NYHETER!",
+            "summary": "DU SPELAR ROLL RÖSTA FÖR DEMOKRATI OCH MÄNSKLIGA RÄTTIGHETER",
+            "content_html": "<h2 class=\"align-center\"><strong>DU SPELAR ROLL</strong><br><br>RÖSTA FÖR</h2>\n<h2 class=\"align-center\">DEMOKRATI OCH</h2>\n<h2 class=\"align-center\">MÄNSKLIGA RÄTTIGHETER</h2>",
+            "author": {
+                "name": "Du Spelar Roll"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-31T21:50:46+02:00",
+            "date_modified": "2026-05-31T21:50:46+02:00"
+        }
+    ]
+}

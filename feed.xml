@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>duspelarroll.nu</title>
+    <link href="https://larssjogreen.github.io/duspelarroll/feed.xml" rel="self" />
+    <link href="https://larssjogreen.github.io/duspelarroll" />
+    <updated>2026-05-31T21:50:46+02:00</updated>
+    <author>
+        <name>Du Spelar Roll</name>
+    </author>
+    <id>https://larssjogreen.github.io/duspelarroll</id>
+
+    <entry>
+        <title>GODA NYHETER!</title>
+        <author>
+            <name>Du Spelar Roll</name>
+        </author>
+        <link href="https://larssjogreen.github.io/duspelarroll/goda-nyheter.html"/>
+        <id>https://larssjogreen.github.io/duspelarroll/goda-nyheter.html</id>
+
+        <updated>2026-05-31T21:50:46+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    DU SPELAR ROLL RÖSTA FÖR DEMOKRATI OCH MÄNSKLIGA RÄTTIGHETER
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="align-center"><strong>DU SPELAR ROLL</strong><br><br>RÖSTA FÖR</h2>
+<h2 class="align-center">DEMOKRATI OCH</h2>
+<h2 class="align-center">MÄNSKLIGA RÄTTIGHETER</h2>
+            ]]>
+        </content>
+    </entry>
+</feed>
