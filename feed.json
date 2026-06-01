@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://larssjogreen.github.io/duspelarroll/daliga-nyheter.html",
+            "url": "https://larssjogreen.github.io/duspelarroll/daliga-nyheter.html",
+            "title": "DÅLIGA NYHETER",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://larssjogreen.github.io/duspelarroll/media/posts/3/DALIGANYHETER.jpeg\" alt=\"\" width=\"905\" height=\"1280\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://larssjogreen.github.io/duspelarroll/media/posts/3/responsive/DALIGANYHETER-xs.jpeg 300w ,https://larssjogreen.github.io/duspelarroll/media/posts/3/responsive/DALIGANYHETER-sm.jpeg 480w ,https://larssjogreen.github.io/duspelarroll/media/posts/3/responsive/DALIGANYHETER-md.jpeg 768w ,https://larssjogreen.github.io/duspelarroll/media/posts/3/responsive/DALIGANYHETER-lg.jpeg 1024w\"></figure>",
+            "author": {
+                "name": "Du Spelar Roll"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-06-01T21:35:31+02:00",
+            "date_modified": "2026-06-01T21:35:31+02:00"
+        },
+        {
             "id": "https://larssjogreen.github.io/duspelarroll/goda-nyheter.html",
             "url": "https://larssjogreen.github.io/duspelarroll/goda-nyheter.html",
             "title": "GODA NYHETER",

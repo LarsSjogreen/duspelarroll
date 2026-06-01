@@ -3,12 +3,28 @@
     <title>duspelarroll.nu</title>
     <link href="https://larssjogreen.github.io/duspelarroll/feed.xml" rel="self" />
     <link href="https://larssjogreen.github.io/duspelarroll" />
-    <updated>2026-05-31T22:00:21+02:00</updated>
+    <updated>2026-06-01T21:35:31+02:00</updated>
     <author>
         <name>Du Spelar Roll</name>
     </author>
     <id>https://larssjogreen.github.io/duspelarroll</id>
 
+    <entry>
+        <title>DÅLIGA NYHETER</title>
+        <author>
+            <name>Du Spelar Roll</name>
+        </author>
+        <link href="https://larssjogreen.github.io/duspelarroll/daliga-nyheter.html"/>
+        <id>https://larssjogreen.github.io/duspelarroll/daliga-nyheter.html</id>
+
+        <updated>2026-06-01T21:35:31+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://larssjogreen.github.io/duspelarroll/media/posts/3/DALIGANYHETER.jpeg" alt="" width="905" height="1280" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://larssjogreen.github.io/duspelarroll/media/posts/3/responsive/DALIGANYHETER-xs.jpeg 300w ,https://larssjogreen.github.io/duspelarroll/media/posts/3/responsive/DALIGANYHETER-sm.jpeg 480w ,https://larssjogreen.github.io/duspelarroll/media/posts/3/responsive/DALIGANYHETER-md.jpeg 768w ,https://larssjogreen.github.io/duspelarroll/media/posts/3/responsive/DALIGANYHETER-lg.jpeg 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>GODA NYHETER</title>
         <author>
